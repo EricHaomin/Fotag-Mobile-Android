@@ -13,3 +13,9 @@ Devices: Pixel API 26
 # Instruction
 1. On Action bar, click the same rating star to clear rating
 2. On rating bar on imageView, slide to clear rating
+
+# Screen shots
+# Screen shots
+![screenshot](fotag1.png)
+![screenshot](fotag2.png)
+![screenshot](fotag3.png)
