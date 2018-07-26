@@ -15,7 +15,6 @@ Devices: Pixel API 26
 2. On rating bar on imageView, slide to clear rating
 
 # Screen shots
-# Screen shots
 ![screenshot](fotag1.png)
 ![screenshot](fotag2.png)
 ![screenshot](fotag3.png)
